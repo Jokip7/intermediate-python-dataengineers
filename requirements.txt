@@ -1,7 +1,5 @@
-# pprint
 requests
 pandas
-# pickle
 numpy
 matplotlib
 scikit-learn
